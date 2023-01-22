@@ -30,7 +30,7 @@ _Dataset :_ I used the [SpeakingFaces dataset](https://github.com/IS2AI/Speaking
 
 Before reading the whole text, please check the video below showing the final results of this project.
 <br><br>
-<video width="320" height="240" controls>
+<video width="600" controls>
   <source src="/assets/img/thermal_BR.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
